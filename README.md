@@ -1,4 +1,4 @@
-cd Maruhiti0809
+cd Thv0809
 mkdir build 
 cd build 
 cmake ..
